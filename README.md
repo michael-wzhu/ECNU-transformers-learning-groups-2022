@@ -25,6 +25,7 @@
       * adapters, prompt, 本征空间，无梯度优化
     * [提示学习](#xxxxxx)
       * prompting: chain-of-thought prompting， 
+Can Prompt Probe Pretrained Language Models? Understanding the Invisible Risks from a Causal View
       * prompting： Multitask Prompted Training Enables Zero-Shot Task Generalization
       * demonstration tuning：
       * instruction tuning：
