@@ -20,6 +20,7 @@
     * [图上的预训练](#xxxx)
 * [Fine-tuning](#ML)
     * [微调涨分有效方法](#xxxx)  --> r-drop, flooding
+    * [多种任务划归为统一范式](#xxxx)  --> 
     * [鲁棒性](#xxxx)    --> flooding-X
     * [参数高效微调](#xxxxxx)
       * adapters, prompt, 本征空间，无梯度优化
@@ -114,9 +115,35 @@ Can Prompt Probe Pretrained Language Models? Understanding the Invisible Risks f
 * Qin, Yujia, Jiajie Zhang, Yankai Lin, Zhiyuan Liu, Peng Li, Maosong Sun and Jie Zhou. “ELLE: Efficient Lifelong Pre-training for Emerging Data.” ArXiv abs/2203.06311 (2022): n. pag.
 * Unified Structure Generation for Universal Information Extraction
 
+<h4 id="vision_pretrain">Vision pretraining</h4>
+
+* Efficient Self-supervised Vision Pretraining with Local Masked Reconstruction
+* Bootstrapped Masked Autoencoders for Vision BERT Pretraining
+* BEiT(-2): generative self-supervised pre-training for vision / BERT Pre-Training of Image Transformers
 
 
+<h4 id="vision_lang">Vision-Language pretraining</h4>
 
-* 
+* VLMo: Unified vision-language pre-training
+* VL-BEiT: Generative Vision-Language Pre-training - evolution of BEiT to multimodal
+* BEiT-3 (NEW): a general-purpose multimodal foundation model, and a major milestone of The Big Convergence of Large-scale Pre-training Across Tasks, Languages, and Modalities.
+
+
+<h4 id="vision_lang">Speech-Language pretraining</h4>
+
+* SpeechT5: Unified-Modal Encoder-Decoder Pre-Training for Spoken Language Processing
+* WavLM: Large-Scale Self-Supervised Pre-training for Full Stack Speech Processing
+* Unified Speech-Text Pre-training for Speech Translation and Recognition
+* Wav2Seq: Pre-training Speech-to-Text Encoder-Decoder Models Using Pseudo Languages
+
+
+<h4 id="document_pretraining">Document pretraining</h4>
+
+* LayoutLM/LayoutLMv2/LayoutLMv3: multimodal (text + layout/format + image) pre-training for Document AI (e.g. scanned documents, PDF, etc.)
+* LayoutXLM: multimodal (text + layout/format + image) pre-training for multilingual document understanding
+* MarkupLM: markup language model pre-training for visually-rich document understanding
+* DiT - Self-supervised Document Image Transformer. Demos: Document Layout Analysis, Document Image Classification
+* TrOCR
+* LayoutReader 
 
 
