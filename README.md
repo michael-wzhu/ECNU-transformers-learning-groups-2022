@@ -117,6 +117,79 @@ Can Prompt Probe Pretrained Language Models? Understanding the Invisible Risks f
 
 
 
-* 
 
 
+
+<h3 id="finetuning">Fine-tuning</h3>
+
+
+<h4 id="微调涨分有效方法">微调涨分有效方法</h4>
+
+* R-Drop
+* Document-Level Relation Extraction with Adaptive Focal Loss and Knowledge Distillation
+* Circle Loss: A Unified Perspective of Pair Similarity Optimization
+* flooding
+* Dissecting Supervised Contrastive Learning
+
+
+<h4 id="鲁棒性">鲁棒性</h4>
+
+* Flooding-X: Improving BERT’s Resistance to Adversarial Attacks via Loss-Restricted Fine-Tuning
+* A Word is Worth A Thousand Dollars: Adversarial Attack on Tweets Fools Stock Prediction
+* Adversarial Training for Improving Model Robustness? Look at Both Prediction and Interpretation
+* AugLy: Data Augmentations for Robustness
+
+
+
+<h4 id="参数高效微调">参数高效微调</h4>
+
+* Compacter: Efficient Low-Rank Hypercomplex Adapter Layers
+* VL-Adapters (CVPR-2022)
+* LoRA: Low-Rank Adaptation of Large Language Models
+* BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models
+* Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models
+* Empowering parameter-efficient transfer learning by recognizing the kernel structure in self-attention
+* Towards a Unified View of Parameter-Efficient Transfer Learning
+* HyperPrompt: Prompt-based Task-Conditioning of Transformers
+
+
+
+<h4 id="提示学习">提示学习</h4>
+
+* T0 
+
+* Chain of Thought Prompting Elicits Reasoning in Large Language Models
+* Can Prompt Probe Pretrained Language Models? Understanding the Invisible Risks from a Causal View
+* Multitask Prompted Training Enables Zero-Shot Task Generalization
+* Can large language models reason about medical questions
+* Chain of Thought Imitation with Procedure Cloning
+* Inferring Implicit Relations with Language Models
+* Can language models learn from explanations in context
+* The Unreliability of Explanations in Few-Shot In-Context Learning
+* Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?
+* GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models
+
+
+<h4 id="去偏">去偏</h4>
+
+* Don't Discard All the Biased Instances: Investigating a Core Assumption in Dataset Bias Mitigation Techniques
+* Discover and Mitigate Unknown Biases with Debiasing Alternate Networks
+* Language-biased image classification: evaluation based on semantic representations
+* A Closer Look at Debiased Temporal Sentence Grounding in Videos: Dataset, Metric, and Approach
+* Barlow constrained optimization for Visual Question Answering
+* Debiasing Methods in Natural Language Understanding Make Bias More Accessible
+* How Gender Debiasing Affects Internal Model Representations, and Why It Matters
+* Bias Mitigation in Machine Translation Quality Estimation
+
+
+<h4 id="推理加速">推理加速</h4>
+
+* Structured Pruning Learns Compact and Accurate Models
+* Train Flat, Then Compress: Sharpness-Aware Minimization Learns More Compressible Models
+
+* PLATON: Pruning Large Transformer Models with Upper Confidence Bound of Weight Importance
+* Adapt-and-Distill: Developing Small, Fast and Effective Pretrained Language Models for Domains
+* Exploring Extreme Parameter Compression for Pre-trained Language Models
+
+* MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation
+* EdgeFormer
