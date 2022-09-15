@@ -10,7 +10,7 @@
 * [Tutorial](#tutorial)
 * [Research papers](#research_papers)
   * [Transformer Architectures](#xxx)
-      * [针对序列建模](#Transformer_on_sequence)
+      * [Sequence modeling](#Transformer_on_sequence)
       * [Vision Transformers](#vit) 
       * [Graph Transformers](#graph_transformer)
   * [Pre-training](#pretraining)
@@ -60,7 +60,7 @@
 <h3 id="Transformer_architecture">Transformer Architecture</h3>
 
 
-<h4 id="Transformer_on_sequence">序列建模中的Transformer架构</h4>
+<h4 id="Transformer_on_sequence">Sequence modeling</h4>
 
 * [What Dense Graph Do You Need for Self-Attention](https://arxiv.org/abs/2205.14014)
 * [Flowformer: Linearizing Transformers with Conservation Flows](https://arxiv.org/abs/2202.06258)
